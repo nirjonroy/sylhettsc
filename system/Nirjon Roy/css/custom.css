@@ -1,0 +1,20 @@
+.coustom-menu{
+
+			background: black;
+			width: 100%;
+}
+.background-image {
+margin-left: 25%;
+	background:fixed;
+	width: 50%;
+	border-image-width: 50%;
+	height: 50%;
+	opacity: 100;
+}
+.overlay1{
+	background-image: url('../img/header_image.jpg');
+	 background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: relative;
+	background-origin: all;
+}
